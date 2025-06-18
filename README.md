@@ -56,18 +56,41 @@ pip install PyQt5
    ```bash
    python server.py --host 127.0.0.1 --port 33002
    ```
+   ![Image](https://github.com/user-attachments/assets/f74a3eca-a386-43c6-b6d3-0f65439f627a)
 
-3. **Launch the client**  
+   ⚠️running ```GUI``` without ```srver``` occurs ```Status:Refused```
+
+   ![Image](https://github.com/user-attachments/assets/64b358f9-1030-4360-b5ff-078135a27e0f)
+
+   ⚠️Enter your name
+
+   ![Image](https://github.com/user-attachments/assets/9f51f1fa-f1d5-4017-8f3c-fc37b0d40200)
+
+
+
+4. **Launch the client**  
    ```bash
    python gui.py
    ```
+   ![Image](https://github.com/user-attachments/assets/6071998d-6231-40a1-ade2-90854a470768)
+   
 
-4. **Connect**  
+5. **Connect**  
    - Enter server IP, port, and your username.  
    - Click **Connect** to join the chat room.
 
----
+   ![Image](https://github.com/user-attachments/assets/6127d7b6-ff31-4f9b-b268-06c60844ed64)
 
+   - Chat Room
+     
+   ![Image](https://github.com/user-attachments/assets/05982962-779f-4326-99ed-5dadb006e720)
+
+    
+   - Run-Time Chat
+
+   ![Image](https://github.com/user-attachments/assets/06422673-6d63-4b76-a674-2e46aa4cdd9d)
+    
+---
 ## 📂 Project Structure
 
 ```
